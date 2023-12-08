@@ -1,4 +1,4 @@
-Interested in data & software engineering
+Interested in business intelligebce, data, and software engineering
 
 <!---
 reyhandra-k/reyhandra-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
